@@ -23,7 +23,7 @@ shared cards: [9♣, J♥, 10♣, 8♦, 8♣]
 (4, 'pair', [8♦, 8♣], [], 9, 6, 0)
 ```
 
-##calc_win_percent_tienlen.py
+## calc_win_percent_tienlen.py
 
 https://vi.wikipedia.org/wiki/B%C3%A0i_Ti%E1%BA%BFn_l%C3%AAn
 
