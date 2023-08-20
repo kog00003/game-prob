@@ -1,8 +1,8 @@
-# game-prob
+# calculating probability of various game..
 
 ## calc_win_percent_texas_holdem_poker.py
 
-calc texas holdem poker winner percent by simulation...
+calc approximately texas holdem poker winner percent by simulation...
 ```
 0 [7♠, J♠] : 2.90 %
 1 [A♦, A♥] : 2.90 %
@@ -22,3 +22,9 @@ shared cards: [9♣, J♥, 10♣, 8♦, 8♣]
 (2, 'two pair', [10♠, 10♣], [8♦, 8♣], 8, 4, 6)
 (4, 'pair', [8♦, 8♣], [], 9, 6, 0)
 ```
+
+##calc_win_percent_tienlen.py
+
+https://vi.wikipedia.org/wiki/B%C3%A0i_Ti%E1%BA%BFn_l%C3%AAn
+
+tính toán chính xác % bị/ko bị chặt cho từng bộ
