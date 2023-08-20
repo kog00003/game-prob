@@ -1,6 +1,6 @@
 # calculating probability of various game..
 
-## calc_win_percent_texas_holdem_poker.py
+## [calc_win_percent_texas_holdem_poker.py](https://github.com/kog00003/game-prob/blob/679dcfddfbce05709c8d08e139c4c914efdd9111/calc_win_percent_texas_holdem_poker.py)
 
 calc approximately texas holdem poker winner percent by simulation...
 ```
